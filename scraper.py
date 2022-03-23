@@ -34,11 +34,13 @@ def gettweets(timefrom):
     # Optional params: start_time,end_time,since_id,until_id,max_results,next_token,
     # expansions,tweet.fields,media.fields,poll.fields,place.fields,user.fields
     # adding OR entity:"Boris Johnson" to query fills it with news articles rather than opinions
-    query = '(#BorisJohnson OR Boris Johnson OR bojo OR boris -yeltsin) -is:retweet lang:en -has:media' ## add max_results:50 start time: timefrom.strftime("%Y-%m-%dT%H:%M:%SZ") 
+    query = "(#BorisJohnson OR Boris Johnson OR bojo OR boris -yeltsin) -is:retweet lang:en -has:media" ## add max_results:50 start time: timefrom.strftime("%Y-%m-%dT%H:%M:%SZ") 
     #SHOULD WE INCLUDE has:geo OR place_country:GB. Would severely limit responses.
-    tweet_fields = 'author_id,created_at,geo,public_metrics,context_annotations' ## lang is a requirement so not necessary. 
+    tweet_fields = 'author_id,created_at,geo,public_metrics,context_annotations' ## lang is a requirement so not necessary. #Should entities be included?
     user_fields = 'username,location'
-    query_params = {'query': query,'tweet.fields': tweet_fields, 'user.fields': user_fields}
+    query_params = {'query': query,
+                    'tweet.fields': tweet_fields, 
+                    'user.fields': user_fields}
 
     json_response = connect_to_endpoint(search_url, query_params)
     time = ""

@@ -1,3 +1,4 @@
+from ast import Str
 import time 
 
 # named_tuple = time.localtime() # get struct_time
@@ -5,10 +6,10 @@ import time
 
 # filename = time_string+".txt"
 # print(filename)
-folder = "scrapedJsons\\"
-f = open(folder + "manylines.txt", "a")
-f.write("file opened and written in \n")
-f.close()
+# folder = "scrapedJsons\\"
+# f = open(folder + "manylines.txt", "a")
+# f.write("file opened and written in \n")
+# f.close()
 
 # from datetime import datetime, timedelta 
 # # print(datetime.now())
@@ -16,3 +17,11 @@ f.close()
 # format_str = "%Y-%m-%d %H:%M:%S"
 # datetime_obj = datetime.strptime(time_str, format_str)
 # print((datetime_obj + timedelta(hours=3)).strftime("%Y-%m-%d %H:%M:%S"))
+# print(datetime_obj)
+# #remaking into string
+# str_time = datetime.strftime(datetime_obj, format_str)
+# print(type(str_time))
+
+a = "apples "
+b = "oranges"
+print(a + b)
