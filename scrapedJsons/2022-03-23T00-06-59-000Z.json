@@ -1,0 +1,434 @@
+{
+    "data": [
+        {
+            "author_id": "363041206",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:06:59.000Z",
+            "id": "1506422216384294918",
+            "lang": "en",
+            "text": "@POTUS Don’t meet Boris. Apparently he’s a right dick."
+        },
+        {
+            "author_id": "2471879995",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:06:41.000Z",
+            "id": "1506422144430923782",
+            "lang": "en",
+            "text": "@RockyWasYer @SeptemberSun05 @JohnHKemp @BBCPolitics Where did I mention Boris? and I'd question that as it's mine to and I'm very good at it."
+        },
+        {
+            "author_id": "2995908197",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:06:19.000Z",
+            "id": "1506422050340147201",
+            "lang": "en",
+            "text": "#Nazanin should not have to face social media abuse after six years’ detention, says Boris Johnson - The Independent https://t.co/6AXvrLvYpf"
+        },
+        {
+            "author_id": "984430852363948034",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:05:20.000Z",
+            "id": "1506421804033880076",
+            "lang": "en",
+            "text": "@ufoundtom @SeptemberSun05 @JohnHKemp @BBCPolitics Go away. I know you're desperate for Boris to have had a problem here, but you're pretending you're understanding a very technical issue when you don't.  And I know you don't because this is my professional world."
+        },
+        {
+            "author_id": "1093555979361415168",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1463513281679687687",
+                        "name": "Nadine Dorries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1463513281679687687",
+                        "name": "Nadine Dorries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:05:02.000Z",
+            "id": "1506421726476963841",
+            "lang": "en",
+            "text": "@beckenhamtories @NadineDorries @BorisJohnson @Ukraine @ScottPattenden Doubtless Boris Johnson will value the experience of Beckenham Tories exposed to the incisive intellectualism and sparkling wit of Nadine Dorries equally with the traumatic experience of being hit by one of Putin’s hypersonic missiles. #CPSC22"
+        },
+        {
+            "author_id": "1427315176341184513",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:04:06.000Z",
+            "id": "1506421493089153024",
+            "lang": "en",
+            "text": "@rec777777 @andrew_lilico @MaggieM76079577 @ITVNewsPolitics @BorisJohnson Boris is a joke, Junior. The international community mocks him. He's reached Trump levels now. The scruffy  runt can't even dress properly. It's like he sleeps in those cheap off the rack suits"
+        },
+        {
+            "author_id": "1009134918499291136",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:04:06.000Z",
+            "id": "1506421492845879301",
+            "lang": "en",
+            "text": "@lmn071966 @KyivIndependent Showing they can reach the US,they flew some planes over into UK airspace near Scotland one day that our govt said something Putin felt was  out of order,considering Boris has done virtually nothing to sanction Russia they will obviously use any excuse to show their reach"
+        },
+        {
+            "author_id": "1493427732667109381",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "id": "1280550787207147521",
+                        "name": "Arts & culture"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:03:22.000Z",
+            "id": "1506421307239505924",
+            "lang": "en",
+            "text": "@lixXxer I just saw it on the tube,but type in Boris and Natasha cartoon series"
+        },
+        {
+            "author_id": "1427353639",
+            "created_at": "2022-03-23T00:03:21.000Z",
+            "id": "1506421302650826760",
+            "lang": "en",
+            "text": "An exciting day for our partners as 2YO colt KINTAMANI makes his debut for @munceracing @MunceC \n\nTrialled well recently under Boris Thornton when back on dry ground and we’re looking forward to seeing him step out under race conditions @BrisRacingClub \n\nGood luck to our partners https://t.co/kgfmecEOnz"
+        },
+        {
+            "author_id": "853207578",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:03:17.000Z",
+            "id": "1506421287052357636",
+            "lang": "en",
+            "text": "@BBCPolitics Yet again Boris not admitting to what he said even when it's on record ,that poor woman has spent years in prison because of his incompetence if this idiot is voted back into power I believe that the whole of the nation is completely mad"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506422216384294918",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfqsxvh2y5ijfudv5cg94n0d",
+        "oldest_id": "1506421287052357636",
+        "result_count": 10
+    }
+}

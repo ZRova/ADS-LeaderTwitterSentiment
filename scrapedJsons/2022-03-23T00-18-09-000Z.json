@@ -1,0 +1,894 @@
+{
+    "data": [
+        {
+            "author_id": "20326975",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 133,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9967,
+                        "start": 121,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "31252613",
+                        "start": 3,
+                        "username": "davemacladd"
+                    }
+                ]
+            },
+            "id": "1506425029193515009",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "text": "RT @davemacladd: those poor heroic Ukrainians have suffered absolute hell on earth and yet they still face the threat of Boris Johnson turn…"
+        },
+        {
+            "author_id": "1367914897900732420",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                        "id": "1148590041574203392",
+                        "name": "Andrew Neil"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1503877236490866688",
+                        "name": "Nazanin Zaghari-Ratcliffe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                        "id": "1148590041574203392",
+                        "name": "Andrew Neil"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 68,
+                        "normalized_text": "Iran",
+                        "probability": 0.9721,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Andrew Neil",
+                        "probability": 0.9987,
+                        "start": 72,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9968,
+                        "start": 89,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 123,
+                        "normalized_text": "Nazanin Zaghari",
+                        "probability": 0.9245,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "621533",
+                        "start": 3,
+                        "username": "BBCPolitics"
+                    }
+                ]
+            },
+            "id": "1506425003666984963",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 595
+            },
+            "text": "RT @BBCPolitics: Why did you say she was \"teaching journalism in Iran\"? Andrew Neil asks Boris Johnson about Nazanin Zaghari-Ratcliffe\n\nJoh…"
+        },
+        {
+            "author_id": "3343276078",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Carole Cadwalladr",
+                        "id": "1146168245201731584",
+                        "name": "Carole Cadwalladr"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+                        "id": "1502374025170882561",
+                        "name": "WhatsApp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.997,
+                        "start": 20,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "722242009",
+                        "start": 3,
+                        "username": "carolecadwalla"
+                    }
+                ]
+            },
+            "id": "1506424999149772802",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1745
+            },
+            "text": "RT @carolecadwalla: Boris Johnson is being sent summaries of official Red Box govt business by WhatsApp\n\nIt’s just so unbelievably insecure…"
+        },
+        {
+            "author_id": "939198884223516673",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Petro Poroshenko",
+                        "probability": 0.5223,
+                        "start": 69,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9958,
+                        "start": 105,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "85599723",
+                        "start": 3,
+                        "username": "REWearmouth"
+                    }
+                ]
+            },
+            "id": "1506424981642752001",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1485
+            },
+            "text": "RT @REWearmouth: This is extraordinary. \n\nFormer Ukrainian President Petro Poroshenko sends a message to Boris Johnson: “How many citizens…"
+        },
+        {
+            "author_id": "408131101",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+                        "id": "1502374025170882561",
+                        "name": "WhatsApp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "OSAct",
+                        "probability": 0.5655,
+                        "start": 44,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 235,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9955,
+                        "start": 223,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 246,
+                        "normalized_text": "WhatsApp",
+                        "probability": 0.5859,
+                        "start": 239,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1445905244500676608",
+                        "start": 0,
+                        "username": "nigethugrug"
+                    },
+                    {
+                        "end": 28,
+                        "id": "942124818576625664",
+                        "start": 13,
+                        "username": "NeverAToryEver"
+                    },
+                    {
+                        "end": 43,
+                        "id": "406842374",
+                        "start": 29,
+                        "username": "JolyonMaugham"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "An Act to replace section 2 of the Official Secrets Act 1911 by provisions protecting more limited classes of official information.",
+                        "display_url": "legislation.gov.uk/ukpga/1989/6/s…",
+                        "end": 324,
+                        "expanded_url": "https://www.legislation.gov.uk/ukpga/1989/6/section/2",
+                        "start": 301,
+                        "status": 200,
+                        "title": "Official Secrets Act 1989",
+                        "unwound_url": "https://www.legislation.gov.uk/ukpga/1989/6/section/2",
+                        "url": "https://t.co/3NQHYd25rE"
+                    }
+                ]
+            },
+            "id": "1506424974168530949",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@nigethugrug @NeverAToryEver @JolyonMaugham OSAct covers defence of the kingdom.\n\n‘document or other article relating to defence which is or has been in his possession by virtue of his position as such’.\n\nHardly applies to Boris Johnson’s WhatsApp stuff.If they were on defence, then he maybe guilty\n\nhttps://t.co/3NQHYd25rE"
+        },
+        {
+            "author_id": "21336320",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Carole Cadwalladr",
+                        "id": "1146168245201731584",
+                        "name": "Carole Cadwalladr"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+                        "id": "1502374025170882561",
+                        "name": "WhatsApp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.997,
+                        "start": 20,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "722242009",
+                        "start": 3,
+                        "username": "carolecadwalla"
+                    }
+                ]
+            },
+            "id": "1506424938365956097",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1745
+            },
+            "text": "RT @carolecadwalla: Boris Johnson is being sent summaries of official Red Box govt business by WhatsApp\n\nIt’s just so unbelievably insecure…"
+        },
+        {
+            "author_id": "1190235842763264002",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9877,
+                        "start": 31,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9953,
+                        "start": 45,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9868,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Brexit",
+                        "probability": 0.3794,
+                        "start": 105,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9804,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "34247411",
+                        "start": 3,
+                        "username": "mikegalsworthy"
+                    }
+                ]
+            },
+            "id": "1506424927850803204",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3441
+            },
+            "text": "RT @mikegalsworthy: Ex-Pres of Ukraine tears Boris Johnson a new one over his comparison of Ukraine with Brexit.\n\nRemember- Ukraine is figh…"
+        },
+        {
+            "author_id": "156698858",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Carole Cadwalladr",
+                        "id": "1146168245201731584",
+                        "name": "Carole Cadwalladr"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+                        "id": "1502374025170882561",
+                        "name": "WhatsApp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.997,
+                        "start": 20,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "722242009",
+                        "start": 3,
+                        "username": "carolecadwalla"
+                    }
+                ]
+            },
+            "id": "1506424925153804288",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1745
+            },
+            "text": "RT @carolecadwalla: Boris Johnson is being sent summaries of official Red Box govt business by WhatsApp\n\nIt’s just so unbelievably insecure…"
+        },
+        {
+            "author_id": "2719566132",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Petro Poroshenko",
+                        "probability": 0.5223,
+                        "start": 69,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9958,
+                        "start": 105,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "85599723",
+                        "start": 3,
+                        "username": "REWearmouth"
+                    }
+                ]
+            },
+            "id": "1506424924365332481",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1485
+            },
+            "text": "RT @REWearmouth: This is extraordinary. \n\nFormer Ukrainian President Petro Poroshenko sends a message to Boris Johnson: “How many citizens…"
+        },
+        {
+            "author_id": "1427170181739073536",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:17:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9883,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "818455148271964160",
+                        "start": 3,
+                        "username": "GoodLawProject"
+                    }
+                ]
+            },
+            "id": "1506424915125280770",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1195
+            },
+            "text": "RT @GoodLawProject: 🚨🚨🚨  NEW: Government admits none of Boris Johnson's phone messages prior to April 2021 are available to be searched.\nht…"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506425029193515009",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfqxj89pd5xzbsl3yl3ty0l9",
+        "oldest_id": "1506424915125280770",
+        "result_count": 10
+    }
+}

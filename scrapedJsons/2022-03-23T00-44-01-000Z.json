@@ -1,0 +1,482 @@
+{
+    "data": [
+        {
+            "author_id": "1449519968882728966",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:44:01.000Z",
+            "id": "1506431539558723584",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@EdwardJDavey @BorisJohnson Tell us about the Chinese money Ed and Boris will tell you about his birthday party"
+        },
+        {
+            "author_id": "1213776711604568066",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:43:49.000Z",
+            "id": "1506431488295940098",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@LSaczak Boris got bored with Covid-19 #WearAMask"
+        },
+        {
+            "author_id": "604718869",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:43:47.000Z",
+            "id": "1506431478397386755",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BorisJohnson You are a hypocrite Boris. There are children in Yemen that don’t survive to double digits and you continue to do deals with the Saudis and provide them with more bombs and bullets.. where are the Saudi Sanctions."
+        },
+        {
+            "author_id": "4905156171",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:43:29.000Z",
+            "id": "1506431404447522818",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@REWearmouth THE ONLY PERSONS BORIS JOHNSON HAS NOT UPSET IS PUTIN, OLIGARCHS, AND IS LYING CABINET!"
+        },
+        {
+            "author_id": "1215248740421971968",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:43:25.000Z",
+            "id": "1506431385216688137",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@dli_odoir @thatweecafe Boris Trump."
+        },
+        {
+            "author_id": "1213776711604568066",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:43:24.000Z",
+            "id": "1506431384839204867",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Boris got bored #WearAMask https://t.co/ea2f7rcZz3"
+        },
+        {
+            "author_id": "4179644014",
+            "created_at": "2022-03-23T00:42:48.000Z",
+            "id": "1506431230182670343",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@cornwall70001 Sod this Government, I was only pretending to go on hunger strike and protest as a show.\nThank you very much Boris."
+        },
+        {
+            "author_id": "439040339",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Boris Becker",
+                        "id": "827173857584779264",
+                        "name": "Boris Becker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "description": "Boris Becker",
+                        "id": "827173857584779264",
+                        "name": "Boris Becker"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:42:37.000Z",
+            "id": "1506431185987244034",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Tennis legend Boris Becker accused of hiding trophies during bankruptcy trial https://t.co/pLJRFP0PDz"
+        },
+        {
+            "author_id": "1501866123918258181",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:42:34.000Z",
+            "id": "1506431174717153284",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@BorisJohnson @narendramodi Ok Boris we all no u talk shit &amp; couldn’t tell a truth if your life depended on it. If Putin is a war criminal what are Blair &amp; bush? U gave Tony a knighthood. The Biden family are criminals u no it we no it.Butter Biden has links to one of the biggest gas &amp; oil firms In Ukraine"
+        },
+        {
+            "author_id": "18364723",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:42:11.000Z",
+            "id": "1506431077119926277",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "PM Boris Johnson rang PM Narendra Modi today to shore up support for Ukraine. In the call both leaders agreed that Ukraine’s integrity and territorial sovereignty \"must be respected\" and respect for international law is the only way to ensure global peace. https://t.co/kW2DHrUTIF"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506431539558723584",
+        "next_token": "b26v89c19zqg8o3fpyqnrsg1lctkr0quw7mqu4phy4qyl",
+        "oldest_id": "1506431077119926277",
+        "result_count": 10
+    }
+}

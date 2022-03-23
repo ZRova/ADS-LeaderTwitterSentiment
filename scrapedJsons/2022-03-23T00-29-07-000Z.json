@@ -1,0 +1,854 @@
+{
+    "data": [
+        {
+            "author_id": "39730960",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9965,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 124,
+                        "start": 117,
+                        "tag": "Brexit"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3301957390",
+                        "start": 3,
+                        "username": "ArgyleLoz"
+                    }
+                ]
+            },
+            "id": "1506427790056427523",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "text": "RT @ArgyleLoz: Shame on Boris Johnson, absolute shame on you, the whole world is disgusted at his vile comparison of #Brexit to the bravery…"
+        },
+        {
+            "author_id": "2734703312",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9877,
+                        "start": 31,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9953,
+                        "start": 45,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9868,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Brexit",
+                        "probability": 0.3794,
+                        "start": 105,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9804,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "34247411",
+                        "start": 3,
+                        "username": "mikegalsworthy"
+                    }
+                ]
+            },
+            "id": "1506427773400850443",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3455
+            },
+            "text": "RT @mikegalsworthy: Ex-Pres of Ukraine tears Boris Johnson a new one over his comparison of Ukraine with Brexit.\n\nRemember- Ukraine is figh…"
+        },
+        {
+            "author_id": "1426919736579788800",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.998,
+                        "start": 94,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1400046660",
+                        "start": 3,
+                        "username": "SnellArthur"
+                    }
+                ]
+            },
+            "id": "1506427773090680839",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 190
+            },
+            "text": "RT @SnellArthur: That's what the political people call cut-through. I'm not sure if it's what Boris Johnson was looking for."
+        },
+        {
+            "author_id": "2214143282",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Petro Poroshenko",
+                        "probability": 0.5223,
+                        "start": 69,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9958,
+                        "start": 105,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "85599723",
+                        "start": 3,
+                        "username": "REWearmouth"
+                    }
+                ]
+            },
+            "id": "1506427767222640644",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1508
+            },
+            "text": "RT @REWearmouth: This is extraordinary. \n\nFormer Ukrainian President Petro Poroshenko sends a message to Boris Johnson: “How many citizens…"
+        },
+        {
+            "author_id": "43513388",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9988,
+                        "start": 40,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "Brexit",
+                        "probability": 0.4514,
+                        "start": 63,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 79,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9952,
+                        "start": 73,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "36909693",
+                        "start": 3,
+                        "username": "cooper_m"
+                    }
+                ]
+            },
+            "id": "1506427760499204097",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 68
+            },
+            "text": "RT @cooper_m: Remember how last weekend Boris Johnson compared Brexit to Ukraine fighting for its freedom from the Russian invaders?"
+        },
+        {
+            "author_id": "1079476765159014401",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9964,
+                        "start": 55,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "239335964",
+                        "start": 3,
+                        "username": "RickyGtfour"
+                    }
+                ]
+            },
+            "id": "1506427744019783684",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "RT @RickyGtfour: Saved her? Saved her?\n\nShe should sue Boris Johnson for his incompetency that caused he more years of untold hurt and inju…"
+        },
+        {
+            "author_id": "1379436710929465350",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "National Health Service",
+                        "id": "1062025800591896576",
+                        "name": "National Health Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9938,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Covid",
+                        "probability": 0.4806,
+                        "start": 63,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 83,
+                        "normalized_text": "NHS",
+                        "probability": 0.7036,
+                        "start": 81,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "The Prime Minister has paid tribute to the “heroic efforts” of NHS staff and offered his sympathies to everyone bereaved by coronavirus on the second",
+                        "display_url": "jaunenglish.com/2022/03/23/bor…",
+                        "end": 108,
+                        "expanded_url": "https://jaunenglish.com/2022/03/23/boris-johnson-marks-national-day-of-reflection-with-tribute-to-covid-victims-and-nhs/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1506427721601232899/qjC44Elw?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506427721601232899/qjC44Elw?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 85,
+                        "status": 200,
+                        "title": "Boris Johnson marks national day of reflection with tribute to Covid victims and NHS - Jaun News English",
+                        "unwound_url": "https://jaunenglish.com/2022/03/23/boris-johnson-marks-national-day-of-reflection-with-tribute-to-covid-victims-and-nhs/",
+                        "url": "https://t.co/wG70YofV8B"
+                    }
+                ]
+            },
+            "id": "1506427715049639940",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Boris Johnson marks national day of reflection with tribute to Covid victims and NHS https://t.co/wG70YofV8B"
+        },
+        {
+            "author_id": "442084556",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Petro Poroshenko",
+                        "probability": 0.5223,
+                        "start": 69,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9958,
+                        "start": 105,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "85599723",
+                        "start": 3,
+                        "username": "REWearmouth"
+                    }
+                ]
+            },
+            "id": "1506427714567389195",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1508
+            },
+            "text": "RT @REWearmouth: This is extraordinary. \n\nFormer Ukrainian President Petro Poroshenko sends a message to Boris Johnson: “How many citizens…"
+        },
+        {
+            "author_id": "75402301",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "boris",
+                        "probability": 0.9557,
+                        "start": 9,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/AdamBienkov/st…",
+                        "end": 87,
+                        "expanded_url": "https://twitter.com/AdamBienkov/status/1506351163335233539",
+                        "start": 64,
+                        "url": "https://t.co/Qva2ANNXMk"
+                    }
+                ]
+            },
+            "id": "1506427701254672389",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "i kno if boris was capable of feeling shame he'd be embarrassed https://t.co/Qva2ANNXMk"
+        },
+        {
+            "author_id": "1373432009192841221",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Carole Cadwalladr",
+                        "id": "1146168245201731584",
+                        "name": "Carole Cadwalladr"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Boris",
+                        "probability": 0.8999,
+                        "start": 38,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "722242009",
+                        "start": 0,
+                        "username": "carolecadwalla"
+                    }
+                ]
+            },
+            "id": "1506427691959996418",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@carolecadwalla Laziness, thy name is Boris!"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506427790056427523",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfr22gp963tp5bvu42l69nct",
+        "oldest_id": "1506427691959996418",
+        "result_count": 10
+    }
+}

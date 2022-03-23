@@ -1,0 +1,827 @@
+{
+    "data": [
+        {
+            "author_id": "1488370727250444288",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Computer programming",
+                        "id": "848921413196984320",
+                        "name": "Computer programming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Data Science",
+                        "id": "930484568305541120",
+                        "name": "Data science"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:30:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "Todayinhistory"
+                    },
+                    {
+                        "end": 149,
+                        "start": 142,
+                        "tag": "python"
+                    },
+                    {
+                        "end": 154,
+                        "start": 150,
+                        "tag": "bot"
+                    },
+                    {
+                        "end": 162,
+                        "start": 155,
+                        "tag": "pytwts"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "en.wikipedia.org/wiki/Prime_Min…",
+                        "end": 193,
+                        "expanded_url": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+                        "images": [
+                            {
+                                "height": 985,
+                                "url": "https://pbs.twimg.com/news_img/1506428197038325760/fvr1A5JC?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506428197038325760/fvr1A5JC?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 170,
+                        "status": 200,
+                        "title": "Prime Minister of the United Kingdom - Wikipedia",
+                        "unwound_url": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+                        "url": "https://t.co/Dhehe4NNKX"
+                    }
+                ]
+            },
+            "id": "1506428186405797896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "#Todayinhistory Mar 23 , 2020 \"Prime Minister Boris Johnson put the United Kingdom into its first national lockdown in response to COVID-19.\" #python #bot #pytwts  ref : https://t.co/Dhehe4NNKX"
+        },
+        {
+            "author_id": "982124664657928192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:30:19.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Covid",
+                        "probability": 0.3855,
+                        "start": 40,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 54,
+                        "normalized_text": "UK",
+                        "probability": 0.951,
+                        "start": 53,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "hallnature.com/when-do-the-fr…",
+                        "end": 84,
+                        "expanded_url": "https://hallnature.com/when-do-the-free-lateral-flow-tests-for-covid-in-the-uk-end-3/",
+                        "start": 61,
+                        "url": "https://t.co/k7mnjFbsMa"
+                    }
+                ]
+            },
+            "id": "1506428090028810245",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "When do the free lateral flow tests for Covid in the UK end? https://t.co/k7mnjFbsMa"
+        },
+        {
+            "author_id": "1411285883731562497",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9948,
+                        "start": 20,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 157,
+                        "normalized_text": "Brexit",
+                        "probability": 0.5025,
+                        "start": 152,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1217922136343490576",
+                        "start": 0,
+                        "username": "Britain_People"
+                    }
+                ]
+            },
+            "id": "1506427970029826059",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Britain_People ... Boris Johnson's government accused [by MPs] of wasting tens of millions of pounds of taxpayers' money on a so-called [\"festival of] Brexit\""
+        },
+        {
+            "author_id": "1140698426",
+            "created_at": "2022-03-23T00:29:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Germany",
+                        "probability": 0.9842,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Boris Romanchenko",
+                        "probability": 0.9285,
+                        "start": 73,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "World War II",
+                        "probability": 0.6295,
+                        "start": 145,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news.yahoo.com/germany-honors…",
+                        "end": 23,
+                        "expanded_url": "https://news.yahoo.com/germany-honors-survivor-nazi-camps-104019738.html",
+                        "start": 0,
+                        "url": "https://t.co/0tPz01ymfb"
+                    }
+                ]
+            },
+            "id": "1506427947154030596",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/0tPz01ymfb\n\nGermany's parliament on Tuesday paid tribute to Boris Romanchenko, who survived several Nazi concentration camps during World War II but was killed last week d..."
+        },
+        {
+            "author_id": "1441447963121762309",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1404464853431906309",
+                        "name": "GB News"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "GB News",
+                        "probability": 0.6026,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Boris",
+                        "probability": 0.8372,
+                        "start": 44,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9781,
+                        "start": 58,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Brendan O’Neill spoke to GB News on Tuesday to slam the anti-Brexit crowd for their hypocrisy over the Prime Minister’s comments. Spiked magazine’s former editor, expressed his support for what Mr Johnon said at the Tory spring conference in Blackpool and accused Remoaners of throwing never-ending “hissy fits”. GB News host, Dan Wootton fervently agreed with […]",
+                        "display_url": "uk.postxnews.com/gb-news-remoan…",
+                        "end": 132,
+                        "expanded_url": "https://uk.postxnews.com/gb-news-remoaner-hissy-fit-slammed-after-boris-brexit-ukraine-remark-corroded-souls-politics-news/",
+                        "images": [
+                            {
+                                "height": 445,
+                                "url": "https://pbs.twimg.com/news_img/1506427954678702084/ZU4fmDoQ?format=jpg&name=orig",
+                                "width": 750
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506427954678702084/ZU4fmDoQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 109,
+                        "status": 200,
+                        "title": "GB News: Remoaner ‘hissy fit’ slammed after Boris’ Brexit-Ukraine remark -‘Corroded souls’ | Politics | News",
+                        "unwound_url": "https://uk.postxnews.com/gb-news-remoaner-hissy-fit-slammed-after-boris-brexit-ukraine-remark-corroded-souls-politics-news/",
+                        "url": "https://t.co/uBQpSM6B4o"
+                    }
+                ]
+            },
+            "id": "1506427945795137543",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "GB News: Remoaner ‘hissy fit’ slammed after Boris’ Brexit-Ukraine remark -‘Corroded souls’ | Politics | News https://t.co/uBQpSM6B4o"
+        },
+        {
+            "author_id": "1024788829952245763",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1309079088594731008",
+                        "name": "Zarah Sultana"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1309079088594731008",
+                        "name": "Zarah Sultana"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 105,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9966,
+                        "start": 93,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3056307455",
+                        "start": 0,
+                        "username": "zarahsultana"
+                    }
+                ]
+            },
+            "id": "1506427891604758528",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@zarahsultana When did the Iranian injustice system extend her prison sentence based on what Boris Johnson said. \n\nCome on out with it, I must have missed it."
+        },
+        {
+            "author_id": "49466923",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Anthony Bourdain",
+                        "id": "809102878245732352",
+                        "name": "Anthony Bourdain"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Food Person",
+                        "id": "834524042648440832",
+                        "name": "Food Person"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:29.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Anthony Bourdain",
+                        "probability": 0.9957,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Boris Yefimovich Nemtsov",
+                        "probability": 0.8393,
+                        "start": 29,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 143,
+                        "normalized_text": "Kremlin",
+                        "probability": 0.7977,
+                        "start": 137,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "Putin",
+                        "probability": 0.9879,
+                        "start": 152,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 195,
+                        "start": 187,
+                        "tag": "Ukraine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/y2dS3zEVIQI",
+                        "end": 221,
+                        "expanded_url": "https://youtu.be/y2dS3zEVIQI",
+                        "start": 198,
+                        "url": "https://t.co/FnDkrMoTRj"
+                    }
+                ]
+            },
+            "id": "1506427881831874560",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Anthony Bourdain interviewed Boris Yefimovich Nemtsov on Parts Unknown. This was the activist who was shot on a bridge right next to the Kremlin. Maybe Putin wanted to observe his death. #Ukraine  \nhttps://t.co/FnDkrMoTRj"
+        },
+        {
+            "author_id": "1379436710929465350",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "National Health Service",
+                        "id": "1062025800591896576",
+                        "name": "National Health Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9938,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Covid",
+                        "probability": 0.4806,
+                        "start": 63,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 83,
+                        "normalized_text": "NHS",
+                        "probability": 0.7036,
+                        "start": 81,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "jaunenglish.com/2022/03/23/bor…",
+                        "end": 108,
+                        "expanded_url": "https://jaunenglish.com/2022/03/23/boris-johnson-marks-national-day-of-reflection-with-tribute-to-covid-victims-and-nhs/",
+                        "start": 85,
+                        "url": "https://t.co/wG70YofV8B"
+                    }
+                ]
+            },
+            "id": "1506427715049639940",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Boris Johnson marks national day of reflection with tribute to Covid victims and NHS https://t.co/wG70YofV8B"
+        },
+        {
+            "author_id": "75402301",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "boris",
+                        "probability": 0.9557,
+                        "start": 9,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/AdamBienkov/st…",
+                        "end": 87,
+                        "expanded_url": "https://twitter.com/AdamBienkov/status/1506351163335233539",
+                        "start": 64,
+                        "url": "https://t.co/Qva2ANNXMk"
+                    }
+                ]
+            },
+            "id": "1506427701254672389",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "i kno if boris was capable of feeling shame he'd be embarrassed https://t.co/Qva2ANNXMk"
+        },
+        {
+            "author_id": "1373432009192841221",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Carole Cadwalladr",
+                        "id": "1146168245201731584",
+                        "name": "Carole Cadwalladr"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:28:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Boris",
+                        "probability": 0.8999,
+                        "start": 38,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "722242009",
+                        "start": 0,
+                        "username": "carolecadwalla"
+                    }
+                ]
+            },
+            "id": "1506427691959996418",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@carolecadwalla Laziness, thy name is Boris!"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506428186405797896",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfr22gp963tp5bvu42l69nct",
+        "oldest_id": "1506427691959996418",
+        "result_count": 10
+    }
+}

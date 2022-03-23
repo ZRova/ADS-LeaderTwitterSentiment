@@ -1,0 +1,822 @@
+{
+    "data": [
+        {
+            "author_id": "1423915771390939147",
+            "created_at": "2022-03-23T00:33:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 203,
+                        "normalized_text": "Boris",
+                        "probability": 0.8533,
+                        "start": 199,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1172601665448378370",
+                        "start": 0,
+                        "username": "keep_bc"
+                    },
+                    {
+                        "end": 18,
+                        "id": "1477799745087152129",
+                        "start": 9,
+                        "username": "amaneezy"
+                    },
+                    {
+                        "end": 28,
+                        "id": "1356375787058855938",
+                        "start": 19,
+                        "username": "surreyps"
+                    },
+                    {
+                        "end": 39,
+                        "id": "76568142",
+                        "start": 29,
+                        "username": "Scottypot"
+                    },
+                    {
+                        "end": 56,
+                        "id": "826197810517209089",
+                        "start": 40,
+                        "username": "WalterRJohnsto1"
+                    },
+                    {
+                        "end": 73,
+                        "id": "1153417492443701248",
+                        "start": 57,
+                        "username": "HilaryT75527886"
+                    },
+                    {
+                        "end": 88,
+                        "id": "260788374",
+                        "start": 74,
+                        "username": "captainramona"
+                    },
+                    {
+                        "end": 263,
+                        "id": "614550795",
+                        "start": 252,
+                        "username": "SurreyRCMP"
+                    },
+                    {
+                        "end": 271,
+                        "id": "38216246",
+                        "start": 264,
+                        "username": "BCRCMP"
+                    },
+                    {
+                        "end": 315,
+                        "id": "5438892",
+                        "start": 304,
+                        "username": "WorkSafeBC"
+                    },
+                    {
+                        "end": 322,
+                        "id": "16690722",
+                        "start": 316,
+                        "username": "bcndp"
+                    },
+                    {
+                        "end": 334,
+                        "id": "17664756",
+                        "start": 323,
+                        "username": "bcliberals"
+                    }
+                ]
+            },
+            "id": "1506428915182538754",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@keep_bc @amaneezy @surreyps @Scottypot @WalterRJohnsto1 @HilaryT75527886 @captainramona Shifts? Who are you referring about and how do you know whose working or not? Your not a police officer!!  Is Boris Leaking when certain officers are working now? @SurreyRCMP @BCRCMP is this safe for SPS officers ? @WorkSafeBC @bcndp @bcliberals"
+        },
+        {
+            "author_id": "1497957670426447879",
+            "created_at": "2022-03-23T00:32:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Jamaica",
+                        "probability": 0.5611,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 153,
+                        "normalized_text": "Boris",
+                        "probability": 0.989,
+                        "start": 149,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 228,
+                        "normalized_text": "Britain",
+                        "probability": 0.9585,
+                        "start": 222,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3355677873",
+                        "start": 0,
+                        "username": "amunga_jacktone"
+                    }
+                ]
+            },
+            "id": "1506428728641007619",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@amunga_jacktone I think that Jamaica Has  decided that they want to be a free country free from all oppression And to lead their own lives. I think Boris said something similar very recently but he forgot to realise that Britain was the most oppressive country ever to be foisted on this world"
+        },
+        {
+            "author_id": "906948150732128258",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "733773946105921536",
+                        "name": "Edward Graham Howe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "733756536430809088",
+                        "name": "Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226180674670592",
+                        "name": "Newcastle United FC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A Coach like 'Bill Belichick'",
+                        "id": "93",
+                        "name": "Coach"
+                    },
+                    "entity": {
+                        "id": "733773946105921536",
+                        "name": "Edward Graham Howe"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:32:42.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Newcastle",
+                        "probability": 0.9539,
+                        "start": 22,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 61,
+                        "normalized_text": "Eddie Howe",
+                        "probability": 0.9975,
+                        "start": 52,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Saudi Arabia",
+                        "probability": 0.3665,
+                        "start": 69,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Boris",
+                        "probability": 0.9073,
+                        "start": 127,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 201,
+                        "normalized_text": "Saudi Arabia",
+                        "probability": 0.6258,
+                        "start": 190,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "108568373",
+                        "start": 0,
+                        "username": "SkySportsNews"
+                    }
+                ]
+            },
+            "id": "1506428689571057665",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "@SkySportsNews  Not a Newcastle fan you keep asking Eddie Howe about Saudi Arabia links .Test they pass before ownership, then Boris is out there ..We sell billions of arms to them. King of Saudi Arabia  seeing  the Queen the red carpet is out..again moral compass as gone?"
+        },
+        {
+            "author_id": "2589488153",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Piers Morgan",
+                        "id": "808772553472737280",
+                        "name": "Piers Morgan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "description": "Piers Morgan",
+                        "id": "808772553472737280",
+                        "name": "Piers Morgan"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:32:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "boris",
+                        "probability": 0.6391,
+                        "start": 69,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "216299334",
+                        "start": 0,
+                        "username": "piersmorgan"
+                    }
+                ]
+            },
+            "id": "1506428659170783232",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@piersmorgan Don’t worry about him, if I was you I would worry about boris"
+        },
+        {
+            "author_id": "2777785175",
+            "created_at": "2022-03-23T00:31:58.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Nicola",
+                        "probability": 0.8993,
+                        "start": 27,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 55,
+                        "normalized_text": "Boris",
+                        "probability": 0.9438,
+                        "start": 51,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "John",
+                        "probability": 0.6899,
+                        "start": 64,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "4264113897",
+                        "start": 0,
+                        "username": "colinurqu"
+                    },
+                    {
+                        "end": 22,
+                        "id": "1225127915328806912",
+                        "start": 11,
+                        "username": "isthisab0t"
+                    }
+                ]
+            },
+            "id": "1506428504908435456",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@colinurqu @isthisab0t Aye…Nicola should just send Boris a Dear John letter."
+        },
+        {
+            "author_id": "970865146275889152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138106947234779137",
+                        "name": "Jon Cooper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1138106947234779137",
+                        "name": "Jon Cooper"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:31:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1172545640360022019",
+                        "start": 0,
+                        "username": "judgeyourself99"
+                    },
+                    {
+                        "end": 28,
+                        "id": "175042044",
+                        "start": 17,
+                        "username": "dhershiser"
+                    },
+                    {
+                        "end": 45,
+                        "id": "27493883",
+                        "start": 29,
+                        "username": "joncoopertweets"
+                    }
+                ]
+            },
+            "id": "1506428277166002180",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@judgeyourself99 @dhershiser @joncoopertweets Worry about idiot boris  uk dog"
+        },
+        {
+            "author_id": "993968890500788225",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Ukraine Petro Poroshenko",
+                        "id": "907661545110306816",
+                        "name": "Petro Poroshenko"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:31:02.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9781,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 42,
+                        "normalized_text": "Petro Poroshenko",
+                        "probability": 0.9617,
+                        "start": 27,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9952,
+                        "start": 54,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 97,
+                        "normalized_text": "UK",
+                        "probability": 0.9425,
+                        "start": 96,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Brexit",
+                        "probability": 0.3613,
+                        "start": 101,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "Russia",
+                        "probability": 0.9542,
+                        "start": 144,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 176,
+                        "normalized_text": "Prime Minister",
+                        "probability": 0.6718,
+                        "start": 163,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Petro Poroshenko has responded to Prime Minister Boris Johnson's comment that people in Ukraine are choosing freedom, as Britons did by voting for Brexit. | ITV National News",
+                        "display_url": "itv.com/news/2022-03-2…",
+                        "end": 237,
+                        "expanded_url": "https://www.itv.com/news/2022-03-22/no-one-died-for-brexit-ex-ukraine-leader-asks-pm-to-please-avoid-comparison",
+                        "images": [
+                            {
+                                "height": 720,
+                                "url": "https://pbs.twimg.com/news_img/1506318637958848513/0ACauHtn?format=jpg&name=orig",
+                                "width": 1280
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506318637958848513/0ACauHtn?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 214,
+                        "status": 200,
+                        "title": "'No one died for Brexit': Ex-Ukraine leader asks PM to 'please' avoid comparison | ITV News",
+                        "unwound_url": "https://www.itv.com/news/2022-03-22/no-one-died-for-brexit-ex-ukraine-leader-asks-pm-to-please-avoid-comparison",
+                        "url": "https://t.co/GlcGrAMsff"
+                    }
+                ]
+            },
+            "id": "1506428269524144128",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Ukraine's former president Petro Poroshenko has asked Boris Johnson to \"please\" not compare the UK's Brexit vote to his country's fight against Russia - after the Prime Minister appeared to do so over the weekend. https://t.co/GlcGrAMsff"
+        },
+        {
+            "author_id": "1488370727250444288",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Computer programming",
+                        "id": "848921413196984320",
+                        "name": "Computer programming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Data Science",
+                        "id": "930484568305541120",
+                        "name": "Data science"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:30:42.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 15,
+                        "start": 0,
+                        "tag": "Todayinhistory"
+                    },
+                    {
+                        "end": 149,
+                        "start": 142,
+                        "tag": "python"
+                    },
+                    {
+                        "end": 154,
+                        "start": 150,
+                        "tag": "bot"
+                    },
+                    {
+                        "end": 162,
+                        "start": 155,
+                        "tag": "pytwts"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "en.wikipedia.org/wiki/Prime_Min…",
+                        "end": 193,
+                        "expanded_url": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+                        "images": [
+                            {
+                                "height": 985,
+                                "url": "https://pbs.twimg.com/news_img/1506428197038325760/fvr1A5JC?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506428197038325760/fvr1A5JC?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 170,
+                        "status": 200,
+                        "title": "Prime Minister of the United Kingdom - Wikipedia",
+                        "unwound_url": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+                        "url": "https://t.co/Dhehe4NNKX"
+                    }
+                ]
+            },
+            "id": "1506428186405797896",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "#Todayinhistory Mar 23 , 2020 \"Prime Minister Boris Johnson put the United Kingdom into its first national lockdown in response to COVID-19.\" #python #bot #pytwts  ref : https://t.co/Dhehe4NNKX"
+        },
+        {
+            "author_id": "1411285883731562497",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:29:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9948,
+                        "start": 20,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 157,
+                        "normalized_text": "Brexit",
+                        "probability": 0.5025,
+                        "start": 152,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1217922136343490576",
+                        "start": 0,
+                        "username": "Britain_People"
+                    }
+                ]
+            },
+            "id": "1506427970029826059",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@Britain_People ... Boris Johnson's government accused [by MPs] of wasting tens of millions of pounds of taxpayers' money on a so-called [\"festival of] Brexit\""
+        },
+        {
+            "author_id": "1140698426",
+            "created_at": "2022-03-23T00:29:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Germany",
+                        "probability": 0.9842,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Boris Romanchenko",
+                        "probability": 0.9285,
+                        "start": 73,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "World War II",
+                        "probability": 0.6295,
+                        "start": 145,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Germany's parliament on Tuesday paid tribute to Boris Romanchenko, who survived several Nazi concentration camps during World War II but was killed last week during an attack in the Ukrainian city of Kharkiv. The Buchenwald concentration camp memorial said on Monday that Romanchenko, who survived Buchenwald as well as camps at Peenemuende, Dora and Bergen-Belsen, was killed on Friday. Romanchenko was dedicated to keeping alive the memory of Nazi crimes and was vice president of the International Buchenwald-Dora Committee, the memorial said.",
+                        "display_url": "news.yahoo.com/germany-honors…",
+                        "end": 23,
+                        "expanded_url": "https://news.yahoo.com/germany-honors-survivor-nazi-camps-104019738.html",
+                        "images": [
+                            {
+                                "height": 773,
+                                "url": "https://pbs.twimg.com/news_img/1506224528548106240/OuGw-pFY?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506224528548106240/OuGw-pFY?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 0,
+                        "status": 200,
+                        "title": "Germany honors survivor of Nazi camps, 96, killed in Ukraine",
+                        "unwound_url": "https://news.yahoo.com/germany-honors-survivor-nazi-camps-104019738.html",
+                        "url": "https://t.co/0tPz01ymfb"
+                    }
+                ]
+            },
+            "id": "1506427947154030596",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/0tPz01ymfb\n\nGermany's parliament on Tuesday paid tribute to Boris Romanchenko, who survived several Nazi concentration camps during World War II but was killed last week d..."
+        }
+    ],
+    "meta": {
+        "newest_id": "1506428915182538754",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfr233lgiz0ul4vixa4wlzel",
+        "oldest_id": "1506427947154030596",
+        "result_count": 10
+    }
+}

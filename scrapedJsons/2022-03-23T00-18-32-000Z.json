@@ -1,0 +1,849 @@
+{
+    "data": [
+        {
+            "author_id": "3403349519",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9957,
+                        "start": 52,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "52404825",
+                        "start": 3,
+                        "username": "iainoverton"
+                    }
+                ]
+            },
+            "id": "1506425125956112388",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1069
+            },
+            "text": "RT @iainoverton: The Government admits that none of Boris Johnson’s messages from his mobile phone prior to April 2021 are available. Not o…"
+        },
+        {
+            "author_id": "286363253",
+            "created_at": "2022-03-23T00:18:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 108,
+                        "normalized_text": "Europe",
+                        "probability": 0.996,
+                        "start": 103,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 140,
+                        "normalized_text": "Boris",
+                        "probability": 0.9777,
+                        "start": 136,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "825829081866436608",
+                        "start": 0,
+                        "username": "irishrygirl"
+                    }
+                ]
+            },
+            "id": "1506425124790095873",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@irishrygirl As soon as he reads this. I’m terrified of what’s to come for the EU and everyone else in Europe. I don’t completely think Boris is on the up and up."
+        },
+        {
+            "author_id": "42849219",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9877,
+                        "start": 31,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9953,
+                        "start": 45,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9868,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Brexit",
+                        "probability": 0.3794,
+                        "start": 105,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Ukraine",
+                        "probability": 0.9804,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "34247411",
+                        "start": 3,
+                        "username": "mikegalsworthy"
+                    }
+                ]
+            },
+            "id": "1506425095367110662",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3442
+            },
+            "text": "RT @mikegalsworthy: Ex-Pres of Ukraine tears Boris Johnson a new one over his comparison of Ukraine with Brexit.\n\nRemember- Ukraine is figh…"
+        },
+        {
+            "author_id": "1170977928508841985",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Priti Patel",
+                        "id": "857226855966842880",
+                        "name": "Priti Patel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Priti Patel",
+                        "id": "857226855966842880",
+                        "name": "Priti Patel"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 127,
+                        "start": 114,
+                        "tag": "BorisJohnson"
+                    },
+                    {
+                        "end": 145,
+                        "start": 128,
+                        "tag": "RacistGovernment"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 110,
+                        "id": "61660254",
+                        "start": 99,
+                        "username": "pritipatel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/DrWaheedArian/…",
+                        "end": 169,
+                        "expanded_url": "https://twitter.com/DrWaheedArian/status/1506389275255918596",
+                        "start": 146,
+                        "url": "https://t.co/Ri6yqBGHT4"
+                    }
+                ]
+            },
+            "id": "1506425072541708293",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Yes. But realistically, only refugees with brown skin. The white one get visas.\n\nIsn't that right, @pritipatel? \n\n#BorisJohnson #RacistGovernment https://t.co/Ri6yqBGHT4"
+        },
+        {
+            "author_id": "3343276078",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9942,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "406842374",
+                        "start": 3,
+                        "username": "JolyonMaugham"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "The Government has admitted that none of Boris Johnson’s messages from his mobile phone prior to April 2021 are available, as Good Law Project’s legal challenge to Ministers’ persistent use of private communication channels for...",
+                        "display_url": "glplive.org/johnson-phone",
+                        "end": 139,
+                        "expanded_url": "https://glplive.org/johnson-phone",
+                        "images": [
+                            {
+                                "height": 750,
+                                "url": "https://pbs.twimg.com/news_img/1506222775937245187/eDvXkLM5?format=jpg&name=orig",
+                                "width": 1500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506222775937245187/eDvXkLM5?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 116,
+                        "status": 200,
+                        "title": "Government reveals that none of the Prime Minister’s phone messages prior to April 2021 can be searched - Good Law Project",
+                        "unwound_url": "https://goodlawproject.org/update/pm-messages-cannot-be-searched/?utm_source=Twitter&utm_campaign=Private%20emails%20hearing%20johnson%20phone%20220322&utm_medium=social%20media",
+                        "url": "https://t.co/74f5DSKUK8"
+                    }
+                ]
+            },
+            "id": "1506425058822078467",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2991
+            },
+            "text": "RT @JolyonMaugham: The Government has admitted that all of Boris Johnson's pandemic phone messages are unavailable. https://t.co/74f5DSKUK8"
+        },
+        {
+            "author_id": "1162394363869184006",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9942,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "406842374",
+                        "start": 3,
+                        "username": "JolyonMaugham"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "The Government has admitted that none of Boris Johnson’s messages from his mobile phone prior to April 2021 are available, as Good Law Project’s legal challenge to Ministers’ persistent use of private communication channels for...",
+                        "display_url": "glplive.org/johnson-phone",
+                        "end": 139,
+                        "expanded_url": "https://glplive.org/johnson-phone",
+                        "images": [
+                            {
+                                "height": 750,
+                                "url": "https://pbs.twimg.com/news_img/1506222775937245187/eDvXkLM5?format=jpg&name=orig",
+                                "width": 1500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506222775937245187/eDvXkLM5?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 116,
+                        "status": 200,
+                        "title": "Government reveals that none of the Prime Minister’s phone messages prior to April 2021 can be searched - Good Law Project",
+                        "unwound_url": "https://goodlawproject.org/update/pm-messages-cannot-be-searched/?utm_source=Twitter&utm_campaign=Private%20emails%20hearing%20johnson%20phone%20220322&utm_medium=social%20media",
+                        "url": "https://t.co/74f5DSKUK8"
+                    }
+                ]
+            },
+            "id": "1506425054195859460",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2991
+            },
+            "text": "RT @JolyonMaugham: The Government has admitted that all of Boris Johnson's pandemic phone messages are unavailable. https://t.co/74f5DSKUK8"
+        },
+        {
+            "author_id": "904916983",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "North Atlantic Treaty Organization",
+                        "id": "1016738021939351558",
+                        "name": "North Atlantic Treaty Organization"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "President of Russia Vladimir Putin",
+                        "id": "864931126132985856",
+                        "name": "Vladimir Putin"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Boris",
+                        "probability": 0.9384,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "lilly livered",
+                        "probability": 0.6259,
+                        "start": 86,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "NATO",
+                        "probability": 0.461,
+                        "start": 107,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 114,
+                        "normalized_text": "UN",
+                        "probability": 0.3705,
+                        "start": 113,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 215,
+                        "normalized_text": "Putin",
+                        "probability": 0.9865,
+                        "start": 211,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "16133530",
+                        "start": 0,
+                        "username": "DefenceHQ"
+                    },
+                    {
+                        "end": 27,
+                        "id": "14224719",
+                        "start": 11,
+                        "username": "10DowningStreet"
+                    }
+                ]
+            },
+            "id": "1506425047396847617",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@DefenceHQ @10DowningStreet Boris, cometh the hour cometh the man…get your spineless, lilly livered fellow NATO, UN and European leaders to damn well put an end to the savagery, slaughter, rape and terrorism of Putin and his excuse for an army. Your inaction shames all of us"
+        },
+        {
+            "author_id": "1498447931535507464",
+            "created_at": "2022-03-23T00:18:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Germany",
+                        "probability": 0.9842,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Boris Romanchenko",
+                        "probability": 0.9285,
+                        "start": 73,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "World War II",
+                        "probability": 0.6295,
+                        "start": 145,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Germany's parliament on Tuesday paid tribute to Boris Romanchenko, who survived several Nazi concentration camps during World War II but was killed last week during an attack in the Ukrainian city of Kharkiv. The Buchenwald concentration camp memorial said on Monday that Romanchenko, who survived Buchenwald as well as camps at Peenemuende, Dora and Bergen-Belsen, was killed on Friday. Romanchenko was dedicated to keeping alive the memory of Nazi crimes and was vice president of the International Buchenwald-Dora Committee, the memorial said.",
+                        "display_url": "news.yahoo.com/germany-honors…",
+                        "end": 23,
+                        "expanded_url": "https://news.yahoo.com/germany-honors-survivor-nazi-camps-104019738.html",
+                        "images": [
+                            {
+                                "height": 773,
+                                "url": "https://pbs.twimg.com/news_img/1506224528548106240/OuGw-pFY?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1506224528548106240/OuGw-pFY?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 0,
+                        "status": 200,
+                        "title": "Germany honors survivor of Nazi camps, 96, killed in Ukraine",
+                        "unwound_url": "https://news.yahoo.com/germany-honors-survivor-nazi-camps-104019738.html",
+                        "url": "https://t.co/y9ZZSd5teq"
+                    }
+                ]
+            },
+            "id": "1506425044200742913",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/y9ZZSd5teq\n\nGermany's parliament on Tuesday paid tribute to Boris Romanchenko, who survived several Nazi concentration camps during World War II but was killed last week d..."
+        },
+        {
+            "author_id": "20326975",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:09.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 133,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9967,
+                        "start": 121,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "31252613",
+                        "start": 3,
+                        "username": "davemacladd"
+                    }
+                ]
+            },
+            "id": "1506425029193515009",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "text": "RT @davemacladd: those poor heroic Ukrainians have suffered absolute hell on earth and yet they still face the threat of Boris Johnson turn…"
+        },
+        {
+            "author_id": "1367914897900732420",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                        "id": "1148590041574203392",
+                        "name": "Andrew Neil"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1503877236490866688",
+                        "name": "Nazanin Zaghari-Ratcliffe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                        "id": "1148590041574203392",
+                        "name": "Andrew Neil"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister",
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson"
+                    }
+                }
+            ],
+            "created_at": "2022-03-23T00:18:03.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 68,
+                        "normalized_text": "Iran",
+                        "probability": 0.9721,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Andrew Neil",
+                        "probability": 0.9987,
+                        "start": 72,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "Boris Johnson",
+                        "probability": 0.9968,
+                        "start": 89,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 123,
+                        "normalized_text": "Nazanin Zaghari",
+                        "probability": 0.9245,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "621533",
+                        "start": 3,
+                        "username": "BBCPolitics"
+                    }
+                ]
+            },
+            "id": "1506425003666984963",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 595
+            },
+            "text": "RT @BBCPolitics: Why did you say she was \"teaching journalism in Iran\"? Andrew Neil asks Boris Johnson about Nazanin Zaghari-Ratcliffe\n\nJoh…"
+        }
+    ],
+    "meta": {
+        "newest_id": "1506425125956112388",
+        "next_token": "b26v89c19zqg8o3fpyqnrsfqyzxipld5sqcz1f42fok8t",
+        "oldest_id": "1506425003666984963",
+        "result_count": 10
+    }
+}
