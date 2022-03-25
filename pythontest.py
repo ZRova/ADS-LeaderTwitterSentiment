@@ -1,5 +1,5 @@
-from ast import Str
-import time 
+# from ast import Str
+# import time 
 
 # named_tuple = time.localtime() # get struct_time
 # time_string = time.strftime("%Y-%m-%d-%H-%M-%S", named_tuple)
@@ -22,6 +22,9 @@ import time
 # str_time = datetime.strftime(datetime_obj, format_str)
 # print(type(str_time))
 
-a = "apples "
-b = "oranges"
-print(a + b)
+# a = "apples "
+# b = "oranges"
+# print(a + b)
+
+for x in range(4):
+    print(x)

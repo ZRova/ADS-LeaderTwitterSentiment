@@ -9,10 +9,15 @@ import csv
 
 ########## NOTES
 # this code will retrieve 10 tweets every 3 hours from the start date(2020/01/01) to the end date(2022/03/20). 
+# it then puts them in a csv     !!!!!!DO NOT OPEN THE CSV OR IT WILL CRASH!!!!
 # change the query!!!!! 
 # if you aren't getting enough country tagged data, you may have to remove that tag/live with less data 
 # getting less data at 3am is normal. look at daytime values and see whether they are larger. since it is sampling 8x per day they add up.  
 # you can also set it to retrieve less often, up to 1300 seconds it should get the same amount of data but print less often? Do check that
+# Change the start date each time you start the program
+# if you're saving the jsons, set up a folder for storage and change the folder name variable. 
+# also name your filename storage something sensible if you're doing that
+# 
 
 #change this to however you access the token
 academic_bearer_token = ACADEMIC_BEARER_TOKEN
@@ -31,7 +36,7 @@ def connect_to_endpoint(url, params):
     response = requests.get(url, auth=bearer_oauth, params=params)
     while response.status_code == 429:          ### In case of too many requests error
         print(response.status_code, response.text.title)
-        time.sleep(10)                          ### Wait until you can again! 
+        time.sleep(5)                          ### Wait until you can again! 
         response = requests.get(url, auth=bearer_oauth, params=params)
     if response.status_code != 200:
         raise Exception(response.status_code, response.text)
@@ -52,14 +57,15 @@ def gettweets(timefrom):
                     'place.fields': 'full_name,id,country,country_code,geo,name,place_type'}
 
     json_response = connect_to_endpoint(academic_search_url, query_params)
-    filename = re.sub("[:.]", "-", string_endtime)+".json"
-    folder = "academicJsons3\\"
-    with open(folder + filename, 'w', encoding='utf-8') as f:
-        json.dump(json_response, f, ensure_ascii=False, indent=4, sort_keys=True)
-    filenames = open("academic_filenames3.txt", "a") ###CAN PROBABLY NOT OPEN THE FILE EACH TIME
-    filenames.write(str(filename) + "\n")
-    resultcount = json_response["meta"]["result_count"]
-    return(resultcount, json_response)
+
+    ### UNHASH THIS PART IF YOU WOULD LIKE TO KEEP THE json FILES AS WELL AS THE CSV. 
+    # filename = re.sub("[:.]", "-", string_endtime)+".json"
+    # folder = "academicJsons3\\"
+    # with open(folder + filename, 'w', encoding='utf-8') as f:
+    #     json.dump(json_response, f, ensure_ascii=False, indent=4, sort_keys=True)
+    # filenames = open("academic_filenames3.txt", "a") ###CAN PROBABLY NOT OPEN THE FILE EACH TIME
+    # filenames.write(str(filename) + "\n")
+    return(json_response) 
 
 def append_to_csv(json_data, csvFileName):
 
@@ -69,10 +75,7 @@ def append_to_csv(json_data, csvFileName):
 
     #Loop through each tweet
     for tweet_no in range(json_data['meta']["result_count"]):
-        print("tweet number", tweet_no)
-        # tweet_no_c = tweet_no -1
         tweet = json_data["data"][tweet_no]
-        # tweet_geo = json_data["includes"]["places"][tweet_no]
         # We will create a variable for each since some of the keys might not exist for some tweets
         # So we will account for that
 
@@ -87,17 +90,15 @@ def append_to_csv(json_data, csvFileName):
         text = tweet['text']
 
         # 4. Geolocation 
+        # complicated as it removes doubled up locations, so you need to matche them back up using id's 
+        # should be in all tweets
         if ('geo' in tweet): 
-            # print("geo in tweet")  
             tweet_geo = ""
             locations_tot = len(json_data["includes"]["places"])
             for location in range(tweet_no+1):
                 location = min(locations_tot-1, tweet_no) - location
-                # print(tweet["geo"]["place_id"])
-                # print(json_data["includes"]["places"][location]["id"])
                 if tweet["geo"]["place_id"] == json_data["includes"]["places"][location]["id"]:
                     tweet_geo = json_data["includes"]["places"][location]
-                    print("found match for", tweet_no, location)
                     break
 
             geo = tweet['geo']['place_id']
@@ -107,7 +108,7 @@ def append_to_csv(json_data, csvFileName):
             bbox = tweet_geo["geo"]["bbox"]
             place_type = tweet_geo["place_type"]
         else:
-            geo = " "
+            geo = ""
             country = ""
             place_full_name = ""
             place_name = ""
@@ -135,7 +136,7 @@ def append_to_csv(json_data, csvFileName):
                 annotations = tweet["entities"]["annotations"]
             else:
                 annotations = ""
-            if "hashtags" in tweet:
+            if "hashtags" in tweet["entities"]:
                 hashtags = tweet["entities"]["hashtags"]
             else:
                 hashtags = ""
@@ -160,7 +161,9 @@ def append_to_csv(json_data, csvFileName):
     csvFile.close()
 
 def main():
-    savefilename = "dataUK.csv"
+
+    ###set up write file
+    savefilename = "dataUK2.csv"
     csvFile = open(savefilename, "a", newline="", encoding='utf-8')
     csvWriter = csv.writer(csvFile)
 
@@ -178,7 +181,8 @@ def main():
     datetime_cur = datetime.strptime(time_str, format_str)
     datetime_stop = datetime.strptime(test_stop_time, format_str) 
     while datetime_cur < datetime_stop: 
-        newtweets, json_response = gettweets(timefrom=datetime_cur)
+        json_response = gettweets(timefrom=datetime_cur)
+        newtweets = json_response["meta"]["result_count"]
         datetime_cur = datetime_cur + timedelta(hours=3)
         tweet_count += newtweets
         print("total collected=",tweet_count,"new=",newtweets, "date=", datetime_cur, " retrieved at", datetime.strftime(datetime.now(), format_str))
