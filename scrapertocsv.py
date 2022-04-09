@@ -1,9 +1,7 @@
 from details import *
 
 import requests
-import json
 from datetime import datetime, timedelta
-import re
 import time
 import csv
 
@@ -14,10 +12,10 @@ import csv
 # if you aren't getting enough country tagged data, you may have to remove that tag/live with less data 
 # getting less data at 3am is normal. look at daytime values and see whether they are larger. since it is sampling 8x per day they add up.  
 # you can also set it to retrieve less often, up to 1300 seconds it should get the same amount of data but print less often? Do check that
-# Change the start date each time you start the program
 # if you're saving the jsons, set up a folder for storage and change the folder name variable. 
 # also name your filename storage something sensible if you're doing that
-# 
+# Change the start date each time you start the program
+# and hash out the part that adds the headers, you only want those once. 
 
 #change this to however you access the token
 academic_bearer_token = ACADEMIC_BEARER_TOKEN
@@ -35,7 +33,7 @@ def bearer_oauth(r):
 def connect_to_endpoint(url, params):
     response = requests.get(url, auth=bearer_oauth, params=params)
     while response.status_code == 429:          ### In case of too many requests error
-        print(response.status_code, response.text.title)
+        print(response.status_code, response.text)
         time.sleep(5)                          ### Wait until you can again! 
         response = requests.get(url, auth=bearer_oauth, params=params)
     if response.status_code != 200:
@@ -50,7 +48,7 @@ def gettweets(timefrom):
     query_params = {'query': "(#BorisJohnson OR Boris Johnson OR bojo OR (boris -yeltsin -becker -karloff)) -is:retweet lang:en -has:media place_country:GB", #SHOULD WE INCLUDE has:geo OR place_country:GB. Would severely limit responses.
                     'start_time': string_time, 
                     'end_time':string_endtime, 
-                    'max_results':10, 
+                    'max_results':100, 
                     'expansions': "geo.place_id",                                               #'author_id,in_reply_to_user_id,geo.place_id',
                     'tweet.fields': 'author_id,created_at,geo,lang,in_reply_to_user_id,public_metrics,context_annotations,entities',  #'id,text,author_id,in_reply_to_user_id,geo,conversation_id,created_at,lang,public_metrics,referenced_tweets,reply_settings,source',#,public_metrics,context_annotations' ## lang is a requirement so not necessary. #Should entities be included?
                     'user.fields': 'name,username,location,verified',                                         #'id,name,username,created_at,description,public_metrics,verified'
@@ -163,7 +161,7 @@ def append_to_csv(json_data, csvFileName):
 def main():
 
     ###set up write file
-    savefilename = "dataUK2.csv"
+    savefilename = "dataUK4.csv"
     csvFile = open(savefilename, "a", newline="", encoding='utf-8')
     csvWriter = csv.writer(csvFile)
 
@@ -171,21 +169,25 @@ def main():
     column_names = ["tweet_id", "created_at", "text", "author_id", "like_count", "quote_count", "reply_count", "retweet_count", 
         "geo", "country", "place_full_name", "place_name", "bbox", "place_type", 
         "hashtags", "annotations", "urls", "context"]
-    csvWriter.writerow(column_names)
+    # csvWriter.writerow(column_names)
     csvFile.close()
 
-    tweet_count = 0
-    time_str = "2021-10-27 18:00:00" #MAKE SURE TO RESET THIS EACH TIME YOU STOP START THE CODE. First start on 2020-01-01 00:00:00
-    test_stop_time ="2022-03-20 00:00:00"
+    #setting up times
+    time_str = "2020-01-01 00:00:00" #MAKE SURE TO RESET THIS EACH TIME YOU STOP START THE CODE. First start on 2020-01-01 00:00:00
+    test_stop_time ="2020-05-04 00:06:00"
     format_str = "%Y-%m-%d %H:%M:%S"
     datetime_cur = datetime.strptime(time_str, format_str)
-    datetime_stop = datetime.strptime(test_stop_time, format_str) 
+    datetime_stop = datetime.strptime(test_stop_time, format_str)
+
+    request_count = 0
+    tweet_count = 0
     while datetime_cur < datetime_stop: 
         json_response = gettweets(timefrom=datetime_cur)
         newtweets = json_response["meta"]["result_count"]
         datetime_cur = datetime_cur + timedelta(hours=3)
         tweet_count += newtweets
-        print("total collected=",tweet_count,"new=",newtweets, "date=", datetime_cur, " retrieved at", datetime.strftime(datetime.now(), format_str))
+        request_count += 1
+        print("requests=", request_count,"total collected=",tweet_count,"new=",newtweets, "date=", datetime_cur, "retrieved=", datetime.strftime(datetime.now(), format_str))
         append_to_csv(json_response,savefilename)
     print("stopped at" + str(datetime.strptime(time_str, format_str)))
 
